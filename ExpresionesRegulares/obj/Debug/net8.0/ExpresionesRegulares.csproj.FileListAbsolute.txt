@@ -1,0 +1,17 @@
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.exe
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\segmentation_file_2nd_pass_1.txt
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\segmentation_file_2nd_pass_2.txt
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\segmentation_file_2nd_pass_3.txt
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.deps.json
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.runtimeconfig.json
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.dll
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.pdb
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.AssemblyInfo.cs
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.dll
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\refint\ExpresionesRegulares.dll
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.pdb
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.genruntimeconfig.cache
+C:\Users\feli1\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net8.0\ref\ExpresionesRegulares.dll
