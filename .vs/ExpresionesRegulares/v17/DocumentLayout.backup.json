@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\feli1\\source\\repos\\ExpresionesRegulares\\",
+  "WorkspaceRootPath": "C:\\Users\\feli1\\Documents\\Universidad\\Programacion\\ExpresionesRegulares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1AEA9B7-C963-42A0-99B0-06FCB9CCB352}|ExpresionesRegulares\\ExpresionesRegulares.csproj|c:\\users\\feli1\\source\\repos\\expresionesregulares\\expresionesregulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1AEA9B7-C963-42A0-99B0-06FCB9CCB352}|ExpresionesRegulares\\ExpresionesRegulares.csproj|c:\\users\\feli1\\documents\\universidad\\programacion\\expresionesregulares\\expresionesregulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1AEA9B7-C963-42A0-99B0-06FCB9CCB352}|ExpresionesRegulares\\ExpresionesRegulares.csproj|solutionrelative:expresionesregulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEA9B7-C963-42A0-99B0-06FCB9CCB352}|ExpresionesRegulares\\ExpresionesRegulares.csproj|c:\\users\\feli1\\documents\\universidad\\programacion\\expresionesregulares\\expresionesregulares\\segmentation_file_2nd_pass_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1AEA9B7-C963-42A0-99B0-06FCB9CCB352}|ExpresionesRegulares\\ExpresionesRegulares.csproj|solutionrelative:expresionesregulares\\segmentation_file_2nd_pass_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "segmentation_file_2nd_pass_1.txt",
+              "DocumentMoniker": "C:\\Users\\feli1\\Documents\\Universidad\\Programacion\\ExpresionesRegulares\\ExpresionesRegulares\\segmentation_file_2nd_pass_1.txt",
+              "RelativeDocumentMoniker": "ExpresionesRegulares\\segmentation_file_2nd_pass_1.txt",
+              "ToolTip": "C:\\Users\\feli1\\Documents\\Universidad\\Programacion\\ExpresionesRegulares\\ExpresionesRegulares\\segmentation_file_2nd_pass_1.txt",
+              "RelativeToolTip": "ExpresionesRegulares\\segmentation_file_2nd_pass_1.txt",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowFEAAABRDgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-15T02:33:05.56Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\feli1\\source\\repos\\ExpresionesRegulares\\ExpresionesRegulares\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\feli1\\Documents\\Universidad\\Programacion\\ExpresionesRegulares\\ExpresionesRegulares\\Program.cs",
               "RelativeDocumentMoniker": "ExpresionesRegulares\\Program.cs",
-              "ToolTip": "C:\\Users\\feli1\\source\\repos\\ExpresionesRegulares\\ExpresionesRegulares\\Program.cs",
+              "ToolTip": "C:\\Users\\feli1\\Documents\\Universidad\\Programacion\\ExpresionesRegulares\\ExpresionesRegulares\\Program.cs",
               "RelativeToolTip": "ExpresionesRegulares\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T04:28:55.999Z",
               "EditorCaption": ""
